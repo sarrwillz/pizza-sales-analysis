@@ -21,7 +21,7 @@ The dashboard covers the following:
   to identify underperforming items
 
 ## Dashboard Preview
-![Dashboard](home-dashboard.png)
+![Dashboard](dashboard_Home.png)
 ![Dashboard](best_worst_sellers.png)
 
 
