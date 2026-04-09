@@ -20,6 +20,10 @@ The dashboard covers the following:
 - ❌ **Bottom 5 Sellers** – Ranked by revenue, quantity sold, and number of orders 
   to identify underperforming items
 
+## Dashboard Preview
+![Dashboard](home-dashboard.png)
+![Dashboard](best_worst_sellers.png)
+
 
 ## How to Use
 1. Open the `.pbix` file in Power BI Desktop
