@@ -1,9 +1,13 @@
 # 🍕 Pizza Sales Analysis
 
 ## Project Overview
-This project analyzes pizza sales data to uncover key business insights using SQL, 
-Excel, and Power BI. The goal was to understand sales trends, category performance, 
-and identify the best and worst performing pizzas.
+This project analyzes pizza sales data to uncover key business insights such as revenue trends, customer preferences, and top-performing products. The goal is to support data-driven decision-making for a pizza business.
+
+🎯 Objectives
+- Identify top-selling pizzas
+- Analyze revenue trends over time
+- Determine peak sales periods
+- Understand customer ordering patterns
 
 ## Tools Used
 - **SQL** – Data extraction and querying
@@ -20,12 +24,16 @@ The dashboard covers the following:
 - ❌ **Bottom 5 Sellers** – Ranked by revenue, quantity sold, and number of orders 
   to identify underperforming items
 
+📈 Skills Demonstrated
+- Data Cleaning
+- SQL (Joins, Aggregations, Filtering)
+- Exploratory Data Analysis
+- Business Insight Generation
+
 ## Dashboard Preview
 ![Dashboard](dashboard_Home.png)
 ![Dashboard](best_worst_sellers.png)
 
+🚀 Conclusion
 
-## How to Use
-1. Open the `.pbix` file in Power BI Desktop
-2. Refer to the SQL folder for all queries used in the analysis
-3. The Excel file contains the cleaned dataset
+This analysis provides actionable insights that can help improve sales strategy, inventory planning, and customer targeting.
